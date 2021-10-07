@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Deployed Here](https://flashcard-game.netlify.app/)
+----
+
 ## To use this add "axios" library in it....
 
 ## Available Scripts
